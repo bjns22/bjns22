@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bjns22
-- 👀 I’m interested in creatig websites from scratch..
-- 🌱 I’m currently learning pytho and java!
+- 👋 Hey! I’m Blessing
+- 👀 I’m interested in Full Stack Development and want to get started in the tech industry.
+- 🌱 I’m currently learning Python and JavaScript!
 - 💞️ I’m looking to collaborate on anything backend related :)
-- 📫 How to reach me would be my emailing blessingsackey@hotmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: There isn't one ;/
+- 📫 Here is how to reach me on Linkedin: www.linkedin.com/in/blessing-sackey-195631205
+- Here is a link to my portfolio:
+- Here is a link to my first.....
 
 <!---
 bjns22/bjns22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
